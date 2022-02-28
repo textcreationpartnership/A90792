@@ -1,0 +1,701 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plots of Jesuites: (viz. of Robert Parsons an English-man, Adam Contzen a Moguntine, Tho. Campanella a Spaniard, &amp;c.) how to bring England to the Romane religion without tumult. Translated out of the original copies.</title>
+            <title>Politicorum libri decem. Book 2: 18-19. English. Selections</title>
+            <author>Contzen, Adam, 1571-1635.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90792</idno>
+            <idno type="STC">Wing P2603</idno>
+            <idno type="STC">Thomason E715_19</idno>
+            <idno type="STC">ESTC R203166</idno>
+            <idno type="EEBO-CITATION">99863224</idno>
+            <idno type="PROQUEST">99863224</idno>
+            <idno type="VID">115413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115413)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E715[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plots of Jesuites: (viz. of Robert Parsons an English-man, Adam Contzen a Moguntine, Tho. Campanella a Spaniard, &amp;c.) how to bring England to the Romane religion without tumult. Translated out of the original copies.</title>
+                  <title>Politicorum libri decem. Book 2: 18-19. English. Selections</title>
+                  <author>Contzen, Adam, 1571-1635.</author>
+                  <author>Allen, William, 1532-1594.</author>
+                  <author>Parsons, Robert, 1546-1610,</author>
+                  <author>Campanella, Tommaso, 1568-1639.</author>
+                  <author>Sparke, Michael, d. 1653.</author>
+               </titleStmt>
+               <extent>[4], 12 p. : ill. (metal cut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mich. Spark at the Blue Bible in Green Arbor, London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains an excerpt of book 2, chapters 18-19 of "Politicorum libri decem" by Contzen, an excerpt of "De monarchia Hispanica discursus" by Campanella, and an excerpt of "A conference about the next succession to the crowne of Ingland .. by R. Doleman". R. Doleman = William Allen, Sir Francis Englefield, and others. "Robert Persons [Parsons], who is often credited with sole authorship of the work, probably played only a small part in its composition or revision"--Halkett &amp; Laing (3rd ed.).</note>
+                  <note>"The stationer to the reader" signed "Mich. Spark" (the compiler?).</note>
+                  <note>The authors' names are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parsons, Robert, 1546-1610 --  Early works to 1800.</term>
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Jesuits --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:115413:1"/>
+            <p>
+               <figure>
+                  <p>A
+Memoriall
+for
+Reformatio<g ref="char:cmbAbbrStroke">̄</g>
+of
+England
+by <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+1596</p>
+                  <p>De
+Monar<g ref="char:EOLhyphen"/>chia
+Hispa<g ref="char:EOLhyphen"/>nica</p>
+                  <p>
+                     <list>
+                        <item>Campanella</item>
+                        <item>Robert Parſons</item>
+                        <item>Adam Contzen</item>
+                        <item>C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Richelieu</item>
+                     </list>
+                  </p>
+                  <byline>Ex. Sump: M. Sp.</byline>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:115413:1" rendition="simple:additions"/>
+            <p>THE PLOTS
+OF
+JESUITES: (<hi>Viz.</hi> of
+<hi>Robert Parſons</hi> an Engliſh-man,
+<hi>Adam Contzen</hi> a Moguntine,
+<hi>Tho. Campanella</hi> a Spaniard, <hi>&amp;c.</hi>) How to bring <hi>ENGLAND</hi>
+To the Romane Religion
+Without Tumult.</p>
+            <p>Tranſlated out of the Original Copies.</p>
+            <p>
+               <hi>Printed for</hi> Mich. Spark <hi>at the</hi> Blue Bible
+<hi>in</hi> Green Arbor, London, 1653.</p>
+         </div>
+         <div type="stationer_to_the_reader">
+            <pb facs="tcp:115413:2"/>
+            <head>The Stationer to the Reader.</head>
+            <p>MEeting with two Editions of a ſmall (but very
+learned and pious) Treatiſe, highly commended
+by the moſt eminent Miniſters in <hi>France</hi> (to ſay no<g ref="char:EOLhyphen"/>thing
+of ſome in <hi>England</hi>) Entituled, <hi>An Apolo<g ref="char:EOLhyphen"/>gie
+for the Reformed Churches, againſt thoſe
+who accuſe them of Schiſme. with the
+Iudgement of an Univerſitie-man,</hi> &amp;c. And
+finding in the Preface of each Edition ſome mention
+of the Plots of <hi>Parſons, Contzen<g ref="char:punc">▪</g>
+               </hi> and <hi>Campanella,</hi>
+and other Jeſuites, and of their <hi>Directions</hi> how to
+bring <hi>England</hi> to the Superſtition and Idolatry of
+the Church of <hi>Rome,</hi> but ſeeing far more in one
+Edition of the ſaid book than in another, I conceive
+my ſelf obliged in Conſcience, and faithfulneſſe to my
+<hi>Religion</hi> and <hi>Native Country,</hi> not to ſuffer a Diſco<g ref="char:EOLhyphen"/>very,
+of which very excellent uſe may be made (for
+the preſervation of <hi>both</hi>) to lie hid any longer: which
+in brief is the cauſe of this puhlication. <hi>Adieu,</hi> and
+<hi>Be watchfull.</hi>
+            </p>
+            <closer>
+               <signed>Mich. Spark.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:115413:2"/>
+            <head>
+               <hi>Contzens</hi> Plot, to cheat a Church of the
+Religion eſtabliſhed therein, and to bring in
+<hi>Popery</hi> without noyſe or tumult; which was
+mentioned in the Preface to the <hi>Apologie</hi>
+and is taken out of the <hi>ſecond Book of his
+Politicks, ch. 18, 19. p. 103, 104,</hi> &amp;c.</head>
+            <p>MOſt of the things before ſpoken touching the <hi>con<g ref="char:EOLhyphen"/>ſervation</hi>
+of Truth and Religion, are profitable to
+reduce wanderers into the way. Yet they muſt be diverſly
+applyed by <hi>Politick</hi> men. 'Tis difficult to finde out truth,
+but 'tis more hard to perſwade him that erreth: Yet 'tis
+the duty of a <hi>Prince</hi> even in this to beſtir himſelf earneſt<g ref="char:EOLhyphen"/>ly,
+that wicked opinions be taken away.</p>
+            <p>
+               <hi>The firſt means.</hi> What <hi>Muſicians</hi> obſerve in tuning their
+inſtruments, gently ſetting up the ſtrings by little and
+little; and what in curing diſeaſes, <hi>Phyſicians</hi> practiſe,
+abating noxious humours, by degrees and pauſes, the
+ſame muſt be done in a Common-wealth, labouring un<g ref="char:EOLhyphen"/>der
+the malady of errours. Although I approve not
+<hi>lingring</hi> bootleſſe proceedings, ſince they often beget a
+deſiſting from the deſign. What ever means can be uſed,
+my counſel is, that they be attempted; but in a ſoft and
+ſure pace, for fear of a precipice. Here milde commands
+and admonitions do very much further the work.</p>
+            <p>
+               <hi>The ſecond this.</hi> 'Tis no hard matter for any Prince in
+<hi>Europe,</hi> to call back mens mindes to the Ancient rites of
+their Predeceſſors, if he liſt. A matter heretofore held
+impoſſible to be effected: but now men begin again to
+love the <hi>old</hi> Religion. Nor can they be ſo held in by their
+<hi>Miniſters,</hi> but that many do every year turn to the Catho<g ref="char:EOLhyphen"/>lick
+unity. What they once moſt greedily deſired, they
+<pb n="2" facs="tcp:115413:3"/>
+now caſt aſide with diſdain. This <hi>levity</hi> of the <hi>vulgar</hi> to
+admire new things, and contemn old, is fatall. Many
+Provinces in <hi>Germany</hi> have endured many Religions: now
+they retain none, being intent on the <hi>will</hi> of their <hi>Go<g ref="char:EOLhyphen"/>vernours.</hi>
+One cauſe of this is, as I ſaid but now, <hi>Levity
+and Ignorance of the Truth.</hi> Another, <hi>the impoſſibility of hol<g ref="char:EOLhyphen"/>ding
+people long ignorant of the lewdneſſe of hereſies;</hi> and that
+they finde <hi>hereticks</hi> to ſhift t<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r opinions <hi>every</hi> year. 'Tis
+as if you ſhould ſet a company of blinde men to run a
+race; ſooner will <hi>all</hi> miſſe then <hi>one</hi> get to the mark.</p>
+            <p>
+               <hi>Thirdly,</hi> Arch-hereticks are to be <hi>baniſhed</hi> the Com<g ref="char:EOLhyphen"/>monwealth;
+<hi>at once,</hi> if it may ſafely be done; if not,
+then <hi>by degrees.</hi> Boyſterous windes being ſent packing,
+the ſea will become calm: and errour which wanteth
+a protectour, will ſoon be ruined.</p>
+            <p>In alterations I have obſerved theſe twelve things fol<g ref="char:EOLhyphen"/>lowing,
+for the moſt part out of the <hi>Hiſtory of the change
+of Religion in the Palatinate, the Acts of Marpurg, and the Edict
+of Brandenburg.</hi> 1. They <hi>concealed</hi> their purpoſe of alte<g ref="char:EOLhyphen"/>ring
+Religion, and rooting out <hi>Lutheraniſme;</hi> not ſo that
+the wiſer ſort could not perceive it, but that the com<g ref="char:EOLhyphen"/>mon-people
+might not ſee it, and raiſe tumults. 2. By
+the art of the <hi>Zuinglians</hi> ſome were ſuborned, who ſhould
+<hi>crave</hi> the <hi>exerciſe</hi> of the Reformed Religion, and that
+with many <hi>ſugared humble</hi> words; That the Prince might
+not be thought to be of his own accord inclined to odi<g ref="char:EOLhyphen"/>ous
+novelty, but onely graciouſly <hi>indulgent</hi> to <hi>liberty</hi> of
+<hi>conſcience,</hi> and to love and cheriſh <hi>that.</hi> Facility in a
+Prince is commonly extolled; even when he yeeldeth to
+thoſe things which are fitter to be denyed. 3. <hi>One</hi> Church,
+or ſo (<hi>and not above</hi>) was petitioned for: That this ſuit
+might not ſeem harſh to the multitude, who in the mean
+time were to have many more, and were not very ſolici<g ref="char:EOLhyphen"/>tous
+of any. 4. Notwithſtanding the jealouſie of the
+<hi>Lutherans</hi> did here oppoſe it ſelf, ſeeing that <hi>with the Church</hi>
+the maintenance would be withdrawn; therefore they
+think of a <hi>conference</hi> and pacification. They aſſemble in
+the <hi>Court,</hi> the matter is debated before the Princes Coun<g ref="char:EOLhyphen"/>cel:
+<pb n="3" facs="tcp:115413:3"/>
+a notary and witneſſes are denyed them. [But this
+courſe is by no means to be approved, for each part ought
+to have liberty. Otherwiſe, if men be born down with
+the power of the ſtronger ſide, the Victors ſhall ever be
+eſteemed to have had the worſt cauſe. This was the caſe
+of the <hi>Arminians</hi> in <hi>Holland:</hi> whereas they who had the
+advantage of the Princes favour, if they had indeed be<g ref="char:EOLhyphen"/>leeved
+the goodneſſe of their cauſe, ought to have entred
+the liſts upon equall terms.] 5. An Edict was publiſh<g ref="char:EOLhyphen"/>ed
+that none ſhould caſt aſperſions upon another, but by
+all means cheriſh peace and concord. This proved an
+effectuall engine to further the mutation: for hereby
+none durſt contradict the <hi>Calviniſts,</hi> no not ſo much as
+name them; and the Prince was not traduced as a <hi>Patron
+of hereſies,</hi> but applauded as a <hi>Lover of peace.</hi> 6. A <hi>Diſpu<g ref="char:EOLhyphen"/>tation</hi>
+was appointed in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſitie.</hi> 7. All this while
+there was no open ſhew of making <hi>Zuinglianiſme</hi> heir to
+<hi>Lutheraniſme;</hi> but onely this, that peace might be ſetled:
+for nothing was deſired but that the <hi>Lutherans</hi> (retaining
+all their dignities and revenues) would vouchſafe to ſit
+in Conſiſtory with the reſt, and conſult as Brethren;
+which when they refuſed, they were accuſed as proud
+and diſobedient to Authority, and ſeemed to deſerve a
+diſmiſſion. Hitherto things were thus carryed, that <hi>trial</hi>
+might be made what the <hi>people</hi> would bear: for if any
+tumult had aroſe, a fair excuſe might have been made for
+all things hitherto. 8. When the people of <hi>Heidelburg</hi>
+petitioned for the continuance of their <hi>Lutheran</hi> Prea<g ref="char:EOLhyphen"/>chers,
+the matter was paſſed over in ſilence, without
+anſwer; and care taken, that thoſe men who were peti<g ref="char:EOLhyphen"/>tioned
+for, ſhould be <hi>traduced</hi> as too furious and heady.
+And the people were fed ſo long with <hi>hope,</hi> till at length
+they laid aſide all care of <hi>Lutheraniſme</hi> and <hi>hope</hi> together.
+9. When all things now ſeemed ripe, the <hi>Lutherans</hi> were
+commanded to depart from their <hi>Parochial</hi> charge, and
+<hi>all</hi> the Churches beſtowed upon the <hi>Calviniſts:</hi> Nor durſt
+they complain, for if they did, they were baniſhed. But
+now betaking themſelves to domeſtick cares, they onely
+<pb n="4" facs="tcp:115413:4"/>
+ſued for a <hi>penſion, immunity from taxes,</hi> and the like: The
+<hi>Calviniſts</hi> in the mean while laughing, to ſee a matter of
+ſuch height and conſequence, brought ſo low as to
+make ſuch humble and abject petitions. 10. Whereas
+the young Scholars of the Univerſitie were <hi>Lutherans,</hi>
+upon them alſo they practiſed with divers arts. Sti<g ref="char:EOLhyphen"/>pendiaries,
+ſuch as were maintained at the <hi>Elector</hi>'s
+charge) were put to their choyce; whether they would
+be <hi>Calviniſts</hi> or be expelled. And thus an exceeding great
+alteration came on a ſudden without any tumult; for
+the Countrey Preachers followed the motion of the ſu<g ref="char:EOLhyphen"/>periour
+wheels. 11. When the <hi>Lutherans (Profeſſours</hi> in
+the Univerſitie, and <hi>Country Preachers</hi>) refuſed to yeeld
+up their dignities, the Prince told them, He wondred at
+them, ſeeing he had never taken them into his protecti<g ref="char:EOLhyphen"/>on,
+nor given them any new poſſeſſion of their places.
+(For in <hi>that</hi> Countrey, all places and offices become void
+upon the death of the Prince, and the power of beſtow<g ref="char:EOLhyphen"/>ing
+them is in the Succeſſor.) 12. In <hi>Haſſia</hi> they went on
+very ſlowly, and by little and little. Nor was <hi>Calviniſme</hi>
+offered them at once, but onely a ſmall part of it. And
+the people come on much more willingly, if at the ſame
+time they be whiſtled another way, as to <hi>Arminianiſme,</hi> or
+ſome other Sect which may ſeem more odious. Laſtly,
+both ſides fell to writing; but that party which was
+moſt favoured at Court, quickly prevailed. And the
+wickedneſſe of the <hi>Lutherans</hi> (which upon all occaſions
+was made known) did much advance the cauſe of their
+Adverſaries.</p>
+            <p>
+               <hi>The fourth means</hi> which I have ſeen put in execution
+heretofore, and ſtill kept on foot, is this: <hi>viz.</hi> That
+ſuch as are adverſe to the <hi>Romane-Catholick</hi> Religion, be
+put by their honours, dignities and publick offices. Nor
+is this unjuſt, That he who hindreth the welfare of the
+Common-wealth ſhould be kept from the honors and
+commodities of it. Men guilty of great crimes are thruſt
+from their dignities; why then ſhould blaſphemers, and
+contemners of Truth be admitted thereto?</p>
+            <p>
+               <pb n="5" facs="tcp:115413:4"/>
+               <hi>A fifth means.</hi> Let thoſe particular Tenents which
+hear ill among the vulgar, and at firſt ſight ſeem abſurd,
+be culled out, and load laid upon them.</p>
+            <p>
+               <hi>A ſixth.</hi> Make profit of the quarrels of erring men.</p>
+            <p>
+               <hi>A ſeventh.</hi> Let all ſecret Conventicles and publick
+meetings be ſtrictly forbidden.</p>
+            <p>
+               <hi>Eightly.</hi> By the ſeverity of Laws and puniſhments
+compell the obſtinate to duty; but let the rigour of
+laws be ſlowly drawn out, unleſs where there is danger
+of a contagion. Let thoſe which be moſt dangerous be
+taken away, the reſt by the Authority of the Prince will
+ſoon be brought into order. Within theſe few late years,
+a hundred thouſands have been converted to the <hi>Romane</hi>
+Religion in <hi>France;</hi> in <hi>Germany</hi> more. Not one of the <hi>Ger<g ref="char:EOLhyphen"/>mane</hi>
+Princes that hath aſſayed to draw his Subjects on to
+the Catholick Religion, hath ever met with any power,
+reſiſting his Decrees in that behalf made and executed.
+Onely the <hi>Netherlanders</hi> broke out into Rebellion: but
+the cauſe thereof was not Religion alone, nor was that
+pretended; but their <hi>priviledges</hi> and <hi>liberty.</hi> The Domi<g ref="char:EOLhyphen"/>nion
+of a forain Nation over them (a thing abhorred
+by ingenuous men) and the exaction of Tenths ſtirred
+up that people to ſedition.</p>
+            <p>'Tis I confeſſe the opinion of ſome Politicians, <hi>That
+men are not to be compelled.</hi> But thoſe which ſo adviſe are
+in an errour, and give counſell not againſt the ſafety of
+Religion onely, but even of the Common-wealth. For
+by a wholeſome Law men may be over-ruled, that they
+ſhall not doe evill. And a good Law will ſoon reduce
+thoſe, who being of tender years, are either not at all,
+or very little tainted with hereſie. And ſo if a compul<g ref="char:EOLhyphen"/>ſory
+<hi>Reformation</hi> ſhould not doe good upon old men, it
+may make the younger Catholick. And I know many
+Children have been a means of converting their Parents.
+There are many examples of this in <hi>Bavaria, Stiria, Carin<g ref="char:EOLhyphen"/>thia,</hi>
+and the <hi>Low-countries.</hi>
+            </p>
+            <p>
+               <hi>Ninethly.</hi> Care is to be taken for integrity of manners,
+and purity of life. For the <hi>filthy lives</hi> of <hi>Romane</hi> Clergy<g ref="char:EOLhyphen"/>men,
+<pb n="6" facs="tcp:115413:5"/>
+have made, augmented, and ſtill do uphold <hi>hereſies.</hi>
+And oftentimes in my diſputes with Hereticks, I have
+obſerved, that after very weak arguments they fall to
+accuſing the ill lives of our Clergy-men, and ſpeak of
+things which can neither be denyed nor defended. If the
+Biſhops be not able to amend this, God will ſend an aven<g ref="char:EOLhyphen"/>ger,
+who wil take away the wicked men and their wicked<g ref="char:EOLhyphen"/>neſſe
+both together. Thus have the <hi>Turks</hi> got poſſeſſion
+of <hi>Aſia, Aegypt, Greece,</hi> &amp;c. And Religion will be rooted
+out of <hi>Europe,</hi> unleſſe the manners of men be anſwerable to
+the ſanctity of their Doctrine.</p>
+            <p>CHAP. XIX. Other helps there be, which wiſdome
+may ſuggeſt, according to the variety of time and place.
+The <hi>Sinenſes</hi> are taken with the Mathematicks; the <hi>Ja<g ref="char:EOLhyphen"/>ponians</hi>
+with Ethicks; the <hi>Americans</hi> with Ceremonies and
+Muſick: All wayes are to be tryed.</p>
+            <p>And firſt <hi>Muſick. Paulus Samoſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>enus</hi> turned certain
+Eccleſiaſticall hymnes into obſcene and enticing rimes.
+Thus the <hi>Arians</hi> and <hi>Pelagians</hi> deſtroyed the faith and
+diſcipline of the Church. Why then ſhould not an Or<g ref="char:EOLhyphen"/>thodox
+Prince make uſe of that for curing, which Im<g ref="char:EOLhyphen"/>poſtours
+have found out to be a means of deſtroying?</p>
+            <p>Secondly. Before the banes of <hi>Matrimony</hi> be publickly
+asked, Let both the <hi>man</hi> and <hi>woman</hi> be ordered and com<g ref="char:EOLhyphen"/>pelled
+to yeeld an <hi>account</hi> of their <hi>faith.</hi> Upon this occa<g ref="char:EOLhyphen"/>ſion
+they may be inſtructed in the true <hi>[Romane]</hi> Religi<g ref="char:EOLhyphen"/>on:
+and ſo while they promiſe to continue in the
+Church, and ever to hold faſt the Ancient faith, they are
+by degrees faſtened to the truth, and cannot but love it.</p>
+            <p>Thirdly. To this of Marriage other things are to be
+adjoyned. Let no Ceremonies, but thoſe of the Catho<g ref="char:EOLhyphen"/>lick
+Church approach the <hi>Font.</hi> Let none have the ho<g ref="char:EOLhyphen"/>nour
+to be <hi>God-fathers,</hi> unleſſe they have given good te<g ref="char:EOLhyphen"/>ſtimony
+of their ſincerity in the faith. Let no man
+have the honour of Chriſtian <hi>buriall,</hi> unleſſe he hath been
+a partaker of the Sacraments of the Church.</p>
+            <p>Fourthly. If it fall out, that wandring ſouls muſt
+be leiſurely reclaimed, and by art; and that the Propa<g ref="char:EOLhyphen"/>tors
+<pb n="7" facs="tcp:115413:5"/>
+of perverſe opinions cannot be put from the places
+they once enjoyed; then let an Orthodox Magiſtrate ſo
+bring it about, that the inſtituting, preſenting, confir<g ref="char:EOLhyphen"/>ming
+and examining of ſuch men be committed to him.
+For ſo he may chaſe away every one that is apt to doe
+miſchief. Some wrangling <hi>Fellows</hi> that regard not con<g ref="char:EOLhyphen"/>troverſies
+between Romane-Catholicks and Proteſtants,
+and ſtudy onely to enrich themſelves or to comply with
+the Prince, he may (ſafely, now and then) ſet over
+thoſe Churches. So ſhall he be able to abate the rage of
+hereſie, and yet not be troubled to remove the unlear<g ref="char:EOLhyphen"/>ned:
+For by that means errour will grow into con<g ref="char:EOLhyphen"/>tempt.
+And becauſe unskilfull men are wont to erre
+often, all conſtancy in errours will be taken away by
+this means.</p>
+            <p>Fifthly. Likewiſe, let him nouriſh the differences of
+Preachers which are in errour: and let him ſo work, that
+they may often conferre and wrangle. For by this
+means, when all ſhall underſtand that there is nothing
+ſetled and certain among them, they will joyne in
+truth.</p>
+            <p>Sixthly. Many other means there be, which prudent
+care will dictate to a Prince of its owne accord. All
+thoſe things which draw love and honourable eſteem to
+the Prince, are of uſe, to fetch over the people eaſily to
+embrace his opinion in matters of Religion. Of this
+ſort are, his eaſing them of <hi>taxes, exciſe,</hi> ſpeedy <hi>ſupplies</hi>
+to any part of the Countrey ſpoyled by fire, <hi>proviſion of
+victuals,</hi>
+and other <hi>neceſſaries.</hi> Hereby it will come to
+paſſe, that what ever they eſteem diſtaſtfull to the <hi>Prince;</hi>
+they will hold in <hi>deteſtation.</hi> If a Prince make uſe of
+theſe means, he may in a ſhort time root out the Pro<g ref="char:EOLhyphen"/>teſtant
+Religion, although in the beginning it ſeem too
+ſtrong for his Laws or Him.</p>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:115413:6"/>
+            <head>Campanella his Plot.</head>
+            <p>
+               <hi>CAmpanella</hi> in his Book <hi>de Monarchia Hiſpanica</hi> (prin<g ref="char:EOLhyphen"/>ted
+in the Reign of Queen <hi>Elizabeth</hi>) ſhewing the
+King of <hi>Spain</hi> how to bring <hi>England</hi> under his owne
+ſubjection, and to the <hi>Romane</hi> Re<g ref="char:EOLhyphen"/>ligion,
+hath theſe words,<note place="margin">The ſame advice that Cardinal <hi>de Richelieu</hi> gave the late King of <hi>France;</hi> a little before his death.</note> c. 22. <hi>In<g ref="char:EOLhyphen"/>ſtiget
+Primores Comitiorum aut Parlia<g ref="char:EOLhyphen"/>menti
+ut Angliam in formam Reipublicae
+reducant;</hi> that is, Let the King of
+<hi>Spain</hi> inſtigate the leading men of
+the (<hi>Engliſh</hi>) Parliament, to bring <hi>England</hi> to the form of
+a Common-wealth. And, <hi>Omnino id agat ut Anglorum vires
+infringat, ad quod efficiendum Naves Hollandiae &amp; Friſiae ſuffi<g ref="char:EOLhyphen"/>cerent;
+ſi nimirum Claſſi Anglicae opponerentur; ut infra palam
+fiet, &amp;c.</hi> that is, By all means let him make it his buſi<g ref="char:EOLhyphen"/>neſſe,
+<hi>to break the ſtrength of England.</hi> To effect which, the
+ſhips of <hi>Holland</hi> and <hi>Friſia</hi> will be enough, if they be ſet
+againſt the <hi>Engliſh;</hi> as by and by I will ſhew, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>This 25 chapter beginneth thus, Quamvis Anglus, &amp;c.</hi> Al<g ref="char:EOLhyphen"/>though
+the <hi>Engliſh</hi> doth of all Nations ſeem leaſt to effect
+an Univerſall Monarchy, yet they do much hinder <hi>Spains</hi>
+attaining it; Queen <hi>Elizabeth</hi> hath given us examples,
+for ſhe hath cheriſhed corrupted humours, and helped
+Proteſtants with advice and ſupplies in the <hi>Low Countries</hi>
+againſt the Catholick King, and in <hi>France</hi> againſt the moſt
+Chriſtian Prince; For ſhe is Queen of an Iſland which
+aboundeth with Ships and Souldiers, and maketh a prey
+of all that <hi>Spain</hi> hath in the North, and ramble even to
+<hi>America,</hi> where though they cannot erect a new King<g ref="char:EOLhyphen"/>dome,
+yet they doe the <hi>Spaniard</hi> very much harm; for
+<hi>Drake</hi> the <hi>Engliſh</hi> man hath gone round the world more
+than once, though <hi>Magalanes</hi> did it before him. And
+it may come to paſſe, that all the Kingdome of <hi>Baccalaos</hi>
+(which is neerer the <hi>Engliſh,</hi> and more commodious to
+them, by reaſon of the temperature of the aire) may
+<pb n="9" facs="tcp:115413:6"/>
+ſome time or other be pulled into their poſſeſſion: Cer<g ref="char:EOLhyphen"/>tain
+it is, and evident enough, that if the King of <hi>Spain</hi>
+could conquer but <hi>England</hi> and the <hi>Low-countreys,</hi> he would
+quickly become the Monarch of all <hi>Europe,</hi> and of the
+greateſt part of the New-found world</p>
+            <p>
+               <hi>Campanella goes on,</hi> adviſing the <hi>Spaniard</hi> to erect ſome
+new Schools or Colledges in <hi>Flanders,</hi> and to uſher a
+new Religion into <hi>England;</hi> firſt, with a <hi>new Philoſophy</hi>
+(himſelf hath furniſhed us with one)
+<hi>Anglorum Religio facile reſtingui non
+poteſt,</hi>
+               <note place="margin">There is more to the ſame purpoſe in the 10. Chap. which be<g ref="char:EOLhyphen"/>ginneth thus; <hi>Omnes Magnates Monarchiam, &amp;c.</hi> All great men, when they have gone about to ſet up a Mo<g ref="char:EOLhyphen"/>narchy, have altered the <hi>Sciences,</hi> &amp; ſome<g ref="char:EOLhyphen"/>times <hi>Religion</hi> it ſelfe, that they might be ad<g ref="char:EOLhyphen"/>mired. In the ſame Chap. his 7. direction is, to <hi>ſhut up all Schools wherein the Greek and Hebrew Languages are taught, becauſe they are</hi> (ſaith he) <hi>the cauſes of hereſies, and ſo deſtroy government.</hi>
+               </note> 
+               <hi>niſi aperiantur Scholae in Flandria;
+interventu<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illarum ſpargantur ſemina
+Schiſmatum in ſcienti is naturalibus,
+Stoicis videlicet, Peripateticis, &amp; Tele<g ref="char:EOLhyphen"/>ſianis.</hi>
+The Religion of the <hi>Engliſh</hi>
+cannot eaſily be brought to nothing,
+unleſſe Schools be opened in <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi>
+and by help of them, the ſeeds
+of Schiſms in Naturall Sciences, and
+<hi>Stoick, Peripatetick,</hi> and <hi>Teleſian</hi> Phi<g ref="char:EOLhyphen"/>loſophy
+be ſcattered abroad.</p>
+            <p>
+               <hi>The laſt page of this 25 Chap. is as followeth; Inſula haec
+reducetur in formam Reipublicae, quae perpetuas inimicitias cum
+Scotia gerat, actioneſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuas non niſi lente perficiet, &amp;c.</hi> When
+this Iſland ſhall become a Republick, it will be at perpe<g ref="char:EOLhyphen"/>tuall
+enmity with <hi>Scotland,</hi> and move very ſlowly, and
+ſo do the leſſe harm to <hi>Spain;</hi> whereupon, the King of
+<hi>Spain,</hi> as ſoon as the throne is empty, may ſtep in, pre<g ref="char:EOLhyphen"/>tending
+to help the <hi>Engliſh:</hi> But let him be ſure to keep
+correſpondency with ſome <hi>Engliſh</hi> Noble-men, who have
+power over the adjacent Iſlands, and let every one of
+them have full and abſolute dominion in his ſeverall
+place, as we read it was in the dayes of old. Then let
+him tamper with the Nobility of <hi>Ireland,</hi> that when the
+Queen is dead, that Nation may be formed either into a
+<hi>Common-wealth,</hi> or (at leaſt) into a Kingdome diſtinct by
+<pb n="10" facs="tcp:115413:7"/>
+it ſelf, then let him promiſe ſupplies to each of thoſe
+Noblemen apart, and ſo much the more, becauſe in that
+Kingdome or Iſland, <hi>Catholicks</hi> (eſpecially <hi>Monks of the ord<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r
+of St. Francis</hi>) are very much beloved. Now the <hi>Iriſh</hi> agree
+better with the <hi>Spaniards</hi> than with the <hi>Engliſh,</hi> either
+becauſe their manners or climates are alike, and becauſe
+their Countreys are neer one another. And there are
+in <hi>Ireland</hi> many vagabond perſons who cannot indure
+to be in ſubjection, and yet they are good <hi>Catholicks</hi> and
+able to doe the King of <hi>Spain</hi> excellent ſervice in the
+matter which we now ſpeak of.</p>
+            <p>Theſe and the like things may eaſily be prepared, that
+when Queen <hi>Elizabeth</hi> is dead they may be put in execu<g ref="char:EOLhyphen"/>tion;
+for every one knoweth what bloody Civill wars,
+what alterations and changes have been oftentimes in
+<hi>England.</hi> So that what I have propounded will not ſeem
+ſtrange or impoſſible.</p>
+            <p>
+               <hi>To conclude:</hi> The ſame Campanella in his 8. Chapter of
+the ſame book laies down this rule or maxime, <hi>That the way to
+keep up or increaſe the King of</hi> Spains <hi>Monarchy, is,</hi>
+To keep his own Subjects in peace, and his Neighbors in contention.</p>
+            <p>
+               <hi>Tho. Campanella</hi> having thus given the King of <hi>Spain</hi>
+directions how to get and keep the <hi>Engliſh</hi> Nation;</p>
+         </div>
+         <div type="part">
+            <p>
+               <hi>Rob. Parſons</hi> goes a ſtep further, and will help
+him to a title to the Crown of <hi>England:</hi> For in the yeare
+M.DXCIII. he publiſhed a book under the name of
+<hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Doleman,</hi> Entituled, <hi>A Conference about the next Suc<g ref="char:EOLhyphen"/>ceſſion
+to the Crown of England, divided
+into 2 parts.</hi>
+               <note place="margin">Concerning this book (being condemned in Parliament, <hi>Ann. 35. Eliz.</hi> when it was enacted, <hi>that who ever ſhould have it in his houſe ſhould be guilty of high Treaſon,</hi> and the Printer was hanged, drawn and quartered) See a book entituled, <hi>His Majeſties Meſſages for peace.</hi> p. 125. Printed by <hi>R. Royſton,</hi> 1648. Or ſee Mr. <hi>Prynne</hi>'s Speech in the Houſe of Commons, <hi>Dec.</hi> 4. 1648. p. 109. Where Mr. <hi>Prynne</hi> affirmeth, <hi>That he himſelf and others complained of this book, but that nothing was done to vindicate the Houſes from this groſſe imputation.</hi>
+               </note> The <hi>firſt</hi> part was for
+ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtiſing of Kings and proceeding
+<pb n="11" facs="tcp:115413:7"/>
+againſt them, <hi>&amp;c.</hi> And was lately reprinted by <hi>Robert
+Ibbitſon</hi> in Smithfield, and called, <hi>Severall Speeches made at a
+Conference.</hi>
+            </p>
+            <p>The <hi>ſecond</hi> part was to prove that the <hi>Infanta</hi> of <hi>Spain</hi>
+was the legall Heir to the Crown of <hi>England,</hi> the penning
+whereof did much indear him to the King of <hi>Spain,</hi> the
+Pope and Cardinals, as <hi>Romane</hi> Prieſts relate.</p>
+            <p>Not to repeat any thing of <hi>Parſons Memorial</hi> which
+was mentioned p.<note place="margin">The ſame that <hi>Gu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>damore</hi> wiſhed a <hi>Roman</hi> Catholick to <hi>expect,</hi> and then (and not till then) a toleration of the <hi>Romane</hi> Religion.</note> 13. of the <hi>Preface to the Apologie,</hi>
+wherein he adviſeth <hi>to deſtroy the
+Common law of England, &amp;c.</hi> And to
+have no Preachers but <hi>Itinerary:</hi>
+I ſhall only tranſcribe a few lines
+which you may read in an ordi<g ref="char:EOLhyphen"/>nary
+book, Entituled, <hi>A Reply to Fa. Parſons Libell,</hi> written
+by <hi>Will. Clark</hi> a <hi>Roman</hi> Prieſt, where p. 74. are theſe words
+<q rend="margQuotes">Such as have read <hi>[Parſons Memorial for Reformation]</hi>
+being Prieſts and men of credit, unto ſome of whom
+Fa. <hi>Parſons</hi> himſelf ſhewed the ſaid book (as ſecretly as
+now it is kept) do report, That his directions, are that
+the Municipal Laws of our Countrey <hi>[England]</hi> ſhall
+be ſo altered, that the Civill Laws muſt bear the ſway.</q>
+And a little after, <q rend="margQuotes">For our Clergy alſo they ſay, that
+all men ſhould be put to penſions in the beginning;
+and the Colledges both in <hi>Oxford</hi> and <hi>Cambridge</hi> in the
+ſame ſort <hi>deprived</hi> of their <hi>Lands</hi> and Revenues, and
+become Penſioners—All Religious orders (except
+onely one, <hi>i.e.</hi> Jeſuites) he excludeth out of <hi>England</hi>
+(as they affirm) for the firſt ſeven years and more; that
+Maſter Jeſuites in the mean time may have the ſway of
+all, and enter into the houſes, livings, and poſſeſſions
+of other religious Orders, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>And now <hi>Robert Parſons</hi> friends knowing what an ex<g ref="char:EOLhyphen"/>cellent
+cloak pretences of ſanctity are to the greateſt
+impieties, and how probable a means to make them
+paſſe without diſcovery or ſuſpicion, printed a book,
+Entituled, <hi>A Chriſtian directory</hi> (oft beyond the ſeas)
+under <hi>Parſons</hi> name; whereas indeed he was not the Au<g ref="char:EOLhyphen"/>thor
+<pb n="12" facs="tcp:115413:8"/>
+of it: for as you may read in a book, Entituled,
+<hi>A Dialogue between a Secular Prieſt and a Lay-Gentleman,</hi>
+printed at <hi>Rhemes,</hi> MDCI. p. 107. <hi>The credit thereof
+was due to</hi> Granada, <hi>who laid the platform to Father</hi> Parſons
+<hi>hand, and gave him the principall grounds and matter of it: which
+alſo was deſerved by</hi> Mr. Brinckley <hi>for the Penning (as divers
+report.</hi>) And this book was printed in <hi>London</hi> 3 years
+agoe, with this Title, <hi>A Chriſtian Directory written by the
+R. Father Rob. Parſons, Prieſt of the <hi>Society</hi> of Jeſus;</hi>
+and is one of the chief books that the <hi>Romane</hi> Prieſts in
+<hi>England</hi> commend to their Penitentiaries. A fit <hi>preparatory</hi>
+to his other doctrines<g ref="char:punc">▪</g>
+            </p>
+            <p>He that would read more of ſuch <hi>Jeſuiticall Plots,</hi> may
+read (beſides the books which were cited<g ref="char:punc">▪</g> p. 13. of the
+ſaid <hi>Preface to the Apologie of the Reformed Chur<g ref="char:EOLhyphen"/>ches</hi>)
+a book, Entituled, <hi>Jubileum</hi> ſive <hi>Speculum Jeſui<g ref="char:EOLhyphen"/>ticum,</hi>
+printed 1643. and <hi>Alphouſus de Vargas de Stratage<g ref="char:EOLhyphen"/>matis
+politic is Societatis Jeſu,</hi> 1641. and <hi>Hiſpanicae domina<g ref="char:EOLhyphen"/>tionis
+Arcana.</hi> All in 16<hi rend="sup">o</hi>. Or, <hi>Cardinal d' Oſſat</hi>'s <hi>Letters:</hi>
+Or, Sir <hi>William Boſwel</hi>'s <hi>particular Diſcovery,</hi> printed at
+large in Mr. <hi>Prynne</hi>'s <hi>Romes-Maſter-peece,</hi> p. 13. Where
+the plot was TO DESTROY THE KING
+AND THE ARCH-BISHOP OF CAN<g ref="char:EOLhyphen"/>TERBURY,
+and <hi>then to bring England to the Romane
+Religion, and</hi> (as <hi>Parſons</hi> in his <hi>Manifeſtation</hi> phraſeth it)
+<hi>make it an example to all other Catholick Countreys;</hi> which
+book was printed in the yeer 1644. by</p>
+            <closer>
+               <signed>Mich. Spark.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
